@@ -1,0 +1,12 @@
+.App {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background: url('https://static.vecteezy.com/system/resources/thumbnails/038/563/344/small/ai-generated-the-sky-was-dark-with-pouring-rain-accompanied-by-nimbostratus-clouds-that-covered-the-entire-sky-photo.jpg') no-repeat center center fixed;
+  /* background:url(./assets/IMG_20241219_205218.jpg); */
+  /* background-color: black; */
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
